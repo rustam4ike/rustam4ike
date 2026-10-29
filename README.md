@@ -1,16 +1,23 @@
-## Hi there 👋
+## О себе
 
-<!--
-**rustam4ike/rustam4ike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий ML-инженер с подготовкой в Python и веб-разработке.
+Разрабатываю решения для анализа данных, NLP и RAG: от постановки задачи
+и подготовки данных до сравнения моделей и интерпретации качества.
 
-Here are some ideas to get you started:
+В проектах реализовал:
+- регрессионную модель для прогнозирования прибыли футбольного клуба (XGBoost, R² = 90.7%)
+- RAG-ассистента по текстовым и табличным документам (LlamaIndex + Saiga Mistral 7B)
+- классификатор новостных заголовков на RuBERT со сравнением с классическими ML-моделями
+- веб-систему управления футбольным турниром на Django (учёт команд, игроков,
+  матчей, автоматический расчёт турнирной таблицы)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Стек:** Python, pandas, numpy, scikit-learn, PyTorch, HuggingFace Transformers,
+LlamaIndex, XGBoost, Docling, matplotlib
+
+Пишу структурированный код, анализирую ограничения моделей и оформляю результаты как воспроизводимые исследования.
+
+Развиваюсь в направлении Data Science, NLP и LLM-приложений.
+
+**Образование:** 
+- Компьютерная Академия «ТОП» — «WEB-разработка на Python» (2025);
+- Академия нейросетей The Founder / АНО «Цифротех» — «Разработчик нейросетей» (2026)
